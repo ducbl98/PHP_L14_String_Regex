@@ -7,6 +7,6 @@ function isValidAccount($str){
         echo("Account is invalid");
     }
 }
-isValidAccount('sdasd1__');
+isValidClassName('sdasd1__');
 echo "<br>";
-isValidAccount('Abc12__');
+isValidClassName('Abc12__');

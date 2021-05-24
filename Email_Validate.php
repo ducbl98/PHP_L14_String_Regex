@@ -7,6 +7,6 @@ function isValidEmail($str){
         echo("Email is invalid");
     }
 }
-isValidAccount('ductit1998@gmail.com');
+isValidClassName('ductit1998@gmail.com');
 echo "<br>";
-isValidAccount('ductitqweqweqwqeqweqw@asas.com.vn');
+isValidClassName('ductitqweqweqwqeqweqw@asas.com.vn');
